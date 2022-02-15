@@ -24,7 +24,7 @@ El candidato no debera de usar ninguna libreria o framework javascript o libreri
 
 3. Al iniciar, la lista debera de estar vacia, y conforme realize la busqueda de un gif, o este tecleando el nombre del gif la lista de debera de renderizar con los datos encontrados.
 4. Una vez consumida la API esta devolvera un json el cual debera de leer para renderizar una lista.
-5. El resultado final se debera de ver como en la foto de muestra, sientase libre de realizar los cambios necesarios en css y agregar mas información del gif a parte del nombre(Se evaluara el diseño).
+5. El resultado final se debera de ver como en la foto de muestra, sientase libre de realizar los cambios necesarios en css y agregar mas información del gif a parte del nombre o agregar mas funcionalidades(Se evaluara el diseño).
 6. Una vez realizada la prueba se debera de subir a un repositorio de github, y enviar el link a jortiz@eztrack.mx para su evaluación.
 
 

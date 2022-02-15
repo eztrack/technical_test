@@ -1,2 +1,1 @@
-# technical_test
-Prueba Tecnica para candidatos
+# **Prueba Tecnica**

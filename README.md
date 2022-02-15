@@ -20,6 +20,9 @@ Para las información de gifhy: https://developers.giphy.com/docs/api/endpoint#t
 
 
 
+## **Instrucciones**
+
+
 1. Se debera de crear un proyecto basico de javascript con el nombre y estructura que desee.
 2. Se debera de consumir la siguiente API implementando **Promise** de tipo GET
     * https://api.giphy.com/v1/gifs/search?api_key=T8g9QQkwsLC3nmDwk0R2GR7z7E2DTLc2&q=starwars

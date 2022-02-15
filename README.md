@@ -1,4 +1,4 @@
-# **Prueba Tecnica**
+# **Prueba Técnica**
 
 Esta prueba tiene la intención de evaluar al candidato en sus conocimientos generales sobre los siguientes lenguajes:
 
@@ -15,6 +15,11 @@ Esta prueba tiene la intención de evaluar al candidato en sus conocimientos gen
 
 
 El candidato no debera de usar ninguna libreria o framework javascript o libreria CSS. Esta prueba busca que el candidato sea capaz de realizar una petición y renderizar los elementos de respuesta. Se utiliza una API publica de giphy la cual permite realizar una busqueda de un gif en especifico.
+
+Para las información de gifhy
+* https://developers.giphy.com/docs/api/endpoint#trending
+
+
 
 1. Se debera de crear un proyecto basico de javascript con el nombre y estructura que desee.
 2. Se debera de consumir la siguiente API implementando **Promise** de tipo GET

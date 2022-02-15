@@ -8,7 +8,7 @@ Esta prueba tiene la intención de evaluar al candidato en sus conocimientos gen
 
 
 ## **Resultado Final**
-![alt text](https://corre2.eztrack.mx/_public.images/assets/giphy_technical_test.png)
+![alt text](https://corre2.eztrack.mx/_public.images/assets/giphy_technical_testt.png)
 
 
 

@@ -16,8 +16,7 @@ Esta prueba tiene la intención de evaluar al candidato en sus conocimientos gen
 
 El candidato no debera de usar ninguna libreria o framework javascript o libreria CSS. Esta prueba busca que el candidato sea capaz de realizar una petición y renderizar los elementos de respuesta. Se utiliza una API publica de giphy la cual permite realizar una busqueda de un gif en especifico.
 
-Para las información de gifhy
-* https://developers.giphy.com/docs/api/endpoint#trending
+Para las información de gifhy: https://developers.giphy.com/docs/api/endpoint#trending
 
 
 
